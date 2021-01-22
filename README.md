@@ -1,1 +1,5 @@
-# Machine-Learning-SVR
+# Machine-Learning-SVR <br/>
+Damar Djati Wahyu Kemala <br/>
+- Support Vector Regression <br/>
+
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
